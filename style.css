@@ -3,7 +3,7 @@
     font-size: 23px;
     width: 100%;
     margin: 0px;
-    box-shadow: 5px 5px 5px gray;
+    box-shadow: 5px 5px 5px blue;
 }
 
 .heading_div
@@ -13,7 +13,7 @@
     padding: 10px;
     border-radius: 20px;
     color: black;
-    box-shadow: 5px 5px 5px gray;
+    box-shadow: 5px 5px 5px blue;
 }
 
 .heading_div
